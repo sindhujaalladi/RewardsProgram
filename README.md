@@ -1,18 +1,18 @@
 # RewardsProgram
 
-In this RewardsProgram API I have implemented different endpoints
+In this RewardsProgram API I have implemented all the  endpoints thare asked in the assessment. Below are the screen shots.
 
-a) calculate rewards points any given transcationAmount
+a) calculate reward points for any given transcation Amount
 
 ![image](https://user-images.githubusercontent.com/115841974/211179475-f9d1eb50-205d-4765-95b3-97028131bcd1.png)
 
-b)create customerData and post into db 
+b)create customerData and post to db 
 
 ![image](https://user-images.githubusercontent.com/115841974/211179566-04b28fc3-f79d-49c6-a956-75370a574b4d.png)
 
 ![image](https://user-images.githubusercontent.com/115841974/211179574-c3dfd73f-bf8f-4b90-8d27-1fba6f9e1ad0.png)
 
-c) calculate rewardpoints per customer per month(all transcations in one month)
+c) calculate reward points per customer per month(all transcations in one month)
 
 ![image](https://user-images.githubusercontent.com/115841974/211179653-7d2c818b-a6f0-444c-9b2b-55f93a96049a.png)
 
