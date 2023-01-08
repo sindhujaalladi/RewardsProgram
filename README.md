@@ -1,8 +1,8 @@
 # RewardsProgram
 
-In this RewardsProgram API I have implemented different implementations
+In this RewardsProgram API I have implemented different endpoint
 
-a) calculate rewards points per any given transcationAmount
+a) calculate rewards points any given transcationAmount
 
 ![image](https://user-images.githubusercontent.com/115841974/211179475-f9d1eb50-205d-4765-95b3-97028131bcd1.png)
 
