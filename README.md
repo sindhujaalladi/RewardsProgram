@@ -1,3 +1,4 @@
+[RewardsProgramResults.docx](https://github.com/sindhujaalladi/RewardsProgram/files/10376427/RewardsProgramResults.docx)
 # RewardsProgram
 
 In this RewardsProgram API I have implemented all the  scenarios  that are asked in the assessment.
